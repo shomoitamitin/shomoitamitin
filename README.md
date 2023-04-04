@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shomoitamitin
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, deep learning and reinforcement learning models 
 - 🌱 I’m currently learning machine learning algorithms and python
 - 💞️ I’m looking to collaborate on research
 - 📫 How to reach me : email: shomoita.mitin.aub@gmail.com 
