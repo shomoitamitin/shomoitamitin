@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Shomoita Mitin
+#  Hi, I'm Shomoita Mitin
 
-## 💻 Software Engineer | AI Researcher
+##  Software Engineer | AI Researcher
 
-* 👀 I’m interested in **Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Enterprise Applications, and Full-Stack Development**
-* 🌱 I’m currently expanding my expertise in **AI/ML, Data Engineering, Cloud Technologies, and Enterprise Software Solutions**
-* 💼 I work as a **Software Engineer at the University of South Dakota**, developing and supporting enterprise applications, business intelligence solutions, web platforms, and automation workflows
-* 🔬 My research interests include **Machine Learning for Healthcare, Signal Processing, Recommendation Systems, and Predictive Analytics**
-* 💞️ I’m looking to collaborate on **research projects, open-source software, AI/ML applications, and enterprise development initiatives**
-* 📚 MS in Computer Science from the University of South Dakota
-* 📝 Published researcher in Machine Learning and Parkinson’s Disease prediction
-* 📫 How to reach me:
+*  I’m interested in **Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Enterprise Applications, and Full-Stack Development**
+*  I’m currently expanding my expertise in **AI/ML, Data Engineering, Cloud Technologies, and Enterprise Software Solutions**
+*  I work as a **Software Engineer at the University of South Dakota**, developing and supporting enterprise applications, business intelligence solutions, web platforms, and automation workflows
+*  My research interests include **Machine Learning for Healthcare, Signal Processing, Recommendation Systems, and Predictive Analytics**
+*  I’m looking to collaborate on **research projects, open-source software, AI/ML applications, and enterprise development initiatives**
+*  MS in Computer Science from the University of South Dakota
+*  Published researcher in Machine Learning and Parkinson’s Disease prediction
+*  How to reach me:
 
   * Email: [shomoita.mitin.aub@gmail.com](mailto:shomoita.mitin.aub@gmail.com)
   * LinkedIn: linkedin.com/in/shomoita-mitin/
