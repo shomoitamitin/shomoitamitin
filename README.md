@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shomoita Mitin
 
-## 💻 Software Engineer | Researcher | AI Enthusiast
+## 💻 Software Engineer | AI Researcher
 
 * 👀 I’m interested in **Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Enterprise Applications, and Full-Stack Development**
 * 🌱 I’m currently expanding my expertise in **AI/ML, Data Engineering, Cloud Technologies, and Enterprise Software Solutions**
