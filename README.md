@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 **Languages:** Python, C#, JavaScript, SQL
 
@@ -31,6 +31,6 @@
 *"Passionate about building intelligent solutions that bridge research, data, and enterprise technology."*
 
 <!---
-shomoitamitin/shomoitamitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shomoitamitin/shomoitamitin is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
